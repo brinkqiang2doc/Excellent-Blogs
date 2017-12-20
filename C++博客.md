@@ -5,7 +5,6 @@
  - [1024cores.net](http://www.1024cores.net/)：这里面有关于实现无锁算法以及并行算法等博客
  - [bogotoboto.com](http://www.bogotobogo.com/cplusplus/)：关于C++的一切几乎都可以在这里找到，同时配有详细的代码示例
  - [博客：虚函数表解析](http://blog.csdn.net/haoel/article/details/1948051)：这篇博客非常详细的介绍了虚函数的原理和实现，博主值得关注
- - [linuxhowtos.org](http://www.linuxhowtos.org/)：里面很多关于linux方面的文章，能学到不少东西
  - [igoro.com](http://igoro.com/archive/gallery-of-processor-cache-effects/)：关于cache的side effect，学习C++需要懂得一些底层细节
  - [msdn.com](https://msdn.microsoft.com/en-us/library/ms973852.aspx)：作为C++程序员，你得知道你的代码的cost
  - [godbolt.org/](https://godbolt.org/)：可以看到使用不同的编译器编译C++代码后产生的汇编代码，从而对代码进行分析
